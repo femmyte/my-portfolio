@@ -1,11 +1,11 @@
-  =>  Template Name    : FreeFolio - Freelancer Portfolio Template
+# Sanyaolu Adefemi
+ Web Designer, Web Developer, Front End Developer.
 
-  =>  Template Link    : https://htmlcodex.com/freelancer-portfolio-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+##### I am a Solution driven Web Developer, adept at contributing to
+              highly collaboratively work environment, finding solutions and
+              determining customer satisfaction. Proven experience developing
+              consumer focused websites using HTML, CSS (Bootstrap,
+              tailwindcss), and JavaScript (jquery, Ajax, React.js, Redux).
+              Meeting highest standards for web design, user experience, best
+              practices and speed. Designed and developed web application across
+              multiple APIs, third party integrations and databases
